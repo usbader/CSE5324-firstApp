@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="hello_students">Hello Students</string>
+    <string name="push_me">Push me...</string>
+    <string name="somebody_pushed">Some body has pushed the Button</string>
+</resources>
